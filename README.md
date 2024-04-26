@@ -1,8 +1,6 @@
-# Glue42 Enterprise Tutorial
+# JavaScript Tutorial for io.Connect Desktop 
 
-https://docs.glue42.com/tutorials/enterprise/javascript/index.html
+## Prerequisites
 
-# Glue42 Setup
-
-- Install Glue42 
-- Launch it from your desktop icon
+- Install [io.Connect Desktop](https://interop.io/products/io-connect/);
+- Follow the tutorial guide in the [official io.Connect documentation](https://docs.interop.io/desktop/tutorials/javascript/index.html); 
